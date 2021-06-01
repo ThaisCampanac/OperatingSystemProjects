@@ -1,0 +1,126 @@
+.0
+1 //load 1
+1
+14  //copy to x
+1  //introduce yourself program 
+72 ///h
+9  //print char
+2
+1  //load new char
+69 //e
+9  //print
+2
+1  //load
+108 //l
+9  //print
+2
+9
+2
+1  //load
+79 //o
+9
+2
+23  //subroutine call
+27 //calling space
+23  //subroutine call
+32 // grader
+29 //perform system call
+50
+
+1 //space
+32
+9
+2
+24
+
+1 //grader
+71 //g
+9 //print
+2
+1 //load
+82 //r
+9
+2
+1
+65 //a
+9
+2
+1
+68 //d
+9
+2
+10 //add x to ac
+9 //e
+2
+1
+82 //r
+9
+2
+24
+
+.1000
+27 //push what is currently in ac into stack
+1  //makes hehe each time interrupt
+10 
+9  //new line
+2
+1 //h
+104
+16 //save h in x
+9 //print
+2
+1 //load e
+101
+9 //print
+2
+17 //load h back into x
+9 //print
+2
+1
+101 //load e
+9
+2 //print
+1
+10 // new line
+9
+2
+28 //pop out of stack
+30
+
+.1500
+1  //saying our goodbyes
+10 //subroutine calls in the stack
+9
+2
+23
+1515
+23
+1520
+23
+1525
+2 //load ! from another address
+1700
+9 //print
+2
+30
+
+1 //print b
+98
+9
+2
+24
+
+1 // print y
+121
+9
+2
+24
+
+1  //print e
+101
+9
+2
+24
+
+.1700
+33
